@@ -10,5 +10,5 @@ Machine Learning Projects in Python
 ### Seoul Bike Demand Prediction
 
 |   **Model**          | Linear Regression      | Tensorflow Linear Model    | 
-|:---------------------|:----------------------:|:--------------------------:|
+|:--------------------:|:----------------------:|:--------------------------:|
 | **R Squared Score**  | 0.4546                 |           0.4994           |
