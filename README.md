@@ -7,7 +7,7 @@ Machine Learning Projects in Python
 |:------------:|:----------------------:|:--------------------------:|:-----------:|:-------------------:|:---------------------:|
 | **Accuracy** | 88.93%                 |           85.93%           |    75.34%   |        81.30%       |         74.13%        |
 
-### Seoul Bike Demand Prediction
+### Seoul Rental Bikes Demand Prediction
 
 |   **Model**          | Linear Regression      | Tensorflow Linear Model    | 
 |:--------------------:|:----------------------:|:--------------------------:|
