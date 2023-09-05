@@ -3,7 +3,7 @@ Machine Learning Projects in Python
 
 ---
 
- ### Cherenkov Radiation Classification
+ ### [Cherenkov Radiation Classification](https://github.com/AtharvaTaras/ML-Projects/tree/master/Cherenkov%20Radiation%20Classification)
 
 |   **Model**  | Support Vector Machine | k-Nearest Neighbours (kNN) | Naive Bayes | Logistic Regression | Tensorflow Classifier |
 |:------------:|:----------------------:|:--------------------------:|:-----------:|:-------------------:|:---------------------:|
@@ -11,8 +11,8 @@ Machine Learning Projects in Python
 
 ---
 
-### Seoul Rental Bikes Demand Prediction
+### [Seoul Rental Bikes Demand Prediction](https://github.com/AtharvaTaras/ML-Projects/tree/master/Seoul%20Rental%20Bikes%20Demand%20Predication)
 
 |   **Model**          | Linear Regression      | Tensorflow Linear Model    | 
 |:--------------------:|:----------------------:|:--------------------------:|
-| **R Squared Score**  | 0.4546                 |           0.4994           |
+| **R2 Score**         | 0.4546                 |           0.4994           |
